@@ -14,3 +14,10 @@ The following is one such sample:
 
 ### Sample Output:
 ![img](Resources/0007.png)
+
+## Co-Authors
+Soham Malakar:
+[GitHub](https://github.com/malakar-soham/) | [LinkedIn](https://www.linkedin.com/in/malakar-soham/)
+
+Swastik Malakar:
+[Github](https://github.com/malakar-swastik/) | [LinkedIn](https://www.linkedin.com/in/malakar-swastik/)
