@@ -15,6 +15,8 @@ The following is one such sample:
 ### Sample Output:
 ![img](Resources/0007.png)
 
+To better understand the project click *[here](https://medium.com/@malakar_soham/detecting-welding-defects-in-steel-plates-using-computer-vision-algorithms-98b1fb0da5e9)*
+
 ## Co-Authors
 Soham Malakar:
 [GitHub](https://github.com/malakar-soham/) | [LinkedIn](https://www.linkedin.com/in/malakar-soham/)
