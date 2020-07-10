@@ -7,7 +7,7 @@ import tensorflow as tf
 
 
 h,w = 512,512
-num_cases = 10
+num_cases = 3
 
 images = []
 labels = []
