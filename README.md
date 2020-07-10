@@ -1,4 +1,4 @@
-# Detecting Faults and Measuring Severity in Welding using Radiographic Images
+# Detecting Welding Defects in Steel Plates using Computer Vision Algorithms
 
 In practice, it is practically impossible to obtain a perfect weld and, in most circumstances, it is not necessary to provide the adequate service functions required. However early detection and segregation is always preferred to mishaps.
 
